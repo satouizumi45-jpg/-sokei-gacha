@@ -1,0 +1,15 @@
+{
+  "name": "早慶突破 英文解釈ガチャ",
+  "short_name": "英文解釈ガチャ",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#070b1a",
+  "theme_color": "#070b1a",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
